@@ -6,3 +6,7 @@ A change made on GitHub
 A change made on R
 
 Watch out!
+
+New change
+
+Add a change at the end
