@@ -3,7 +3,7 @@
 
 A change made on GitHub. ADD SOME MORE TEXT
 
-A change made on R
+A change [CONFLICT!!!}
 
 Watch out!
 
